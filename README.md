@@ -136,7 +136,7 @@ cassava-leaf-disease/
 
 1. **Clone Repository:**
    ```bash
-   git clone [https://github.com/VadimTTT/cassava-leaf-disease](https://github.com/VadimTTT/cassava-leaf-disease)
+   git clone https://github.com/VadimTTT/cassava-leaf-disease.git
    cd cassava-leaf-disease
    ```
 
